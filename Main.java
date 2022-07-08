@@ -1,10 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        int resultado = 0;
-        resultado = suma(4,2);
-        System.out.println(resultado);
+       suma(10,30);
     }
-    public static int suma(int a, int b) {
-        return a + b;
+    public static void suma(int a, int b) {
+        int resultado;
+        resultado = a + b;
+
+        System.out.println(resultado);
     }
 }
