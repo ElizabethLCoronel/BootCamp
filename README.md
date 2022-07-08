@@ -1,3 +1,3 @@
-# Ejercicio 01
+Prueba
 Practica inicial GIT GITHUB
 
